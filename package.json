@@ -1,10 +1,9 @@
 {
   "name": "@devjacob/smush",
-  "version": "1.0.0",
+  "version": "1.0.6",
   "description": "A simple function to make merging objects together a bit easier, because why not!",
   "author": "Jacob Paulin",
   "license": "MPL-2.0",
-  "type": "module",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
   "repository": {
@@ -21,8 +20,8 @@
     "test:list": "mocha --parallel --full-trace --recursive --reporter list",
     "pretest:progress": "npm run build",
     "test:progress": "mocha --recursive --reporter progress",
-    "prepublish": "npm run build",
-    "publish": "npm publish --access=publish"
+    "prepublish:npm": "npm run build",
+    "publish:npm": "npm publish --access=public"
   },
   "devDependencies": {
     "@faker-js/faker": "^8.4.1",
