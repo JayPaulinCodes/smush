@@ -1,0 +1,11 @@
+┌─────────┬────────────────────────────────────┬───────┐
+│ (index) │                name                │ speed │
+├─────────┼────────────────────────────────────┼───────┤
+│    0    │         'Adding Property'          │ '0ms' │
+│    1    │        'Replacing Property'        │ '0ms' │
+│    2    │      'Adding Nested Property'      │ '0ms' │
+│    3    │    'Replacing Nested Property'     │ '0ms' │
+│    4    │ 'Replacing Deep Nested Properties' │ '0ms' │
+│    5    │          'Big Data Smush'          │ '0ms' │
+│    6    │         'Big Data Smush 2'         │ '0ms' │
+└─────────┴────────────────────────────────────┴───────┘

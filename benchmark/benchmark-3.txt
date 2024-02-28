@@ -1,0 +1,81 @@
+Started benchmark with 1 iterations
+Finished benchmark with 1 iterations after 4ms
+Started benchmark with 5 iterations
+Finished benchmark with 5 iterations after 2ms
+Started benchmark with 10 iterations
+Finished benchmark with 10 iterations after 4ms
+Started benchmark with 25 iterations
+Finished benchmark with 25 iterations after 6ms
+Started benchmark with 50 iterations
+Finished benchmark with 50 iterations after 14ms
+Started benchmark with 75 iterations
+Finished benchmark with 75 iterations after 16ms
+Started benchmark with 100 iterations
+Finished benchmark with 100 iterations after 17ms
+Started benchmark with 250 iterations
+Finished benchmark with 250 iterations after 24ms
+Started benchmark with 500 iterations
+Finished benchmark with 500 iterations after 79ms
+Started benchmark with 750 iterations
+Finished benchmark with 750 iterations after 65ms
+Started benchmark with 1000 iterations
+Finished benchmark with 1000 iterations after 69ms
+Started benchmark with 2500 iterations
+Finished benchmark with 2500 iterations after 145ms
+Started benchmark with 5000 iterations
+Finished benchmark with 5000 iterations after 286ms
+Started benchmark with 7500 iterations
+Finished benchmark with 7500 iterations after 1162ms
+Started benchmark with 10000 iterations
+Finished benchmark with 10000 iterations after 1125ms
+Started benchmark with 25000 iterations
+Finished benchmark with 25000 iterations after 1450ms
+Started benchmark with 50000 iterations
+Finished benchmark with 50000 iterations after 4020ms
+Started benchmark with 75000 iterations
+Finished benchmark with 75000 iterations after 4616ms
+Started benchmark with 100000 iterations
+Finished benchmark with 100000 iterations after 5661ms
+Started benchmark with 250000 iterations
+Finished benchmark with 250000 iterations after 15521ms
+Started benchmark with 500000 iterations
+Finished benchmark with 500000 iterations after 29076ms
+Started benchmark with 750000 iterations
+Finished benchmark with 750000 iterations after 56020ms
+Started benchmark with 1000000 iterations
+Finished benchmark with 1000000 iterations after 77456ms
+┌─────────┬─────────────────┬───────────┐
+│ (index) │      name       │ duration  │
+├─────────┼─────────────────┼───────────┤
+│    0    │    'smush*1'    │   '4ms'   │
+│    1    │    'smush*5'    │   '2ms'   │
+│    2    │   'smush*10'    │   '4ms'   │
+│    3    │   'smush*25'    │   '6ms'   │
+│    4    │   'smush*50'    │  '14ms'   │
+│    5    │   'smush*75'    │  '16ms'   │
+│    6    │   'smush*100'   │  '17ms'   │
+│    7    │   'smush*250'   │  '24ms'   │
+│    8    │   'smush*500'   │  '79ms'   │
+│    9    │   'smush*750'   │  '65ms'   │
+│   10    │  'smush*1000'   │  '69ms'   │
+│   11    │  'smush*2500'   │  '145ms'  │
+│   12    │  'smush*5000'   │  '286ms'  │
+│   13    │  'smush*7500'   │ '1162ms'  │
+│   14    │  'smush*10000'  │ '1125ms'  │
+│   15    │  'smush*25000'  │ '1450ms'  │
+│   16    │  'smush*50000'  │ '4020ms'  │
+│   17    │  'smush*75000'  │ '4616ms'  │
+│   18    │ 'smush*100000'  │ '5661ms'  │
+│   19    │ 'smush*250000'  │ '15521ms' │
+│   20    │ 'smush*500000'  │ '29076ms' │
+│   21    │ 'smush*750000'  │ '56020ms' │
+│   22    │ 'smush*1000000' │ '77456ms' │
+└─────────┴─────────────────┴───────────┘
+CPU: Intel 61
+	Cores: 4
+		Physical: 2
+		Efficiency: 0
+		Performance: 4
+	Speed: 1.8
+		Min: 1.8
+		Max: 1.8

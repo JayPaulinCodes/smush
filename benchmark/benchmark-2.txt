@@ -1,0 +1,7 @@
+Adding Property: 0.18ms
+Replacing Property: 0.014ms
+Adding Nested Property: 0.019ms
+Replacing Nested Property: 0.01ms
+Replacing Deep Nested Properties: 0.17ms
+Big Data Smush: 0.061ms
+Big Data Smush 2: 0.037ms
